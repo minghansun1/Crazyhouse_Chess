@@ -1,4 +1,4 @@
-# crazyhouse_chess
+# Crazyhouse_Chess
 A variation of chess where captured pieces can be placed again.
 
 # Motivation
