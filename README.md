@@ -16,6 +16,7 @@ during future turns. Placing a piece takes one turn.
 
 # Tech stack
 Java
+
 Java Swing
 
 # Features
