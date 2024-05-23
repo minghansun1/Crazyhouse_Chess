@@ -20,11 +20,13 @@ Java
 Java Swing
 
 # Features
-Dynamic GUI displaying game board and captured pieces
-Intuitive user interface (click and drag to move pieces)
-Automatic validation of moves
-Automatic detection of check and checkmate
-Implementation of en-passant, castling, and promotion
+-Dynamic and intuitve GUI
+
+-Automatic validation of moves
+
+-Automatic detection of check and checkmate
+
+-Includes en-passant, castling, and promotion
 
 # Installation
 1. Download all files
