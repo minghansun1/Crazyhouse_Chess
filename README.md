@@ -2,6 +2,7 @@
 ## Project Description:
 A version of chess where after a piece is captured it can be placed during future turns.
 This version of crazyhouse is implemented with Java Swing, and must be run using a Java IDE.
+Created for CIS 1200 Programming Languages and Techniques 1 final project.
 ## Rules:
 1) Standard chess rules
 2) After a piece is captured by a player, that player can place the captured piece on the board 
