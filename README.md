@@ -1,4 +1,5 @@
 # Crazyhouse Chess
+![CrazyHouse Screenshot](CrazyHouse%20Screenshot.png)
 ## Project Description:
 A version of chess where after a piece is captured it can be placed during future turns.
 This version of crazyhouse is implemented with Java Swing, and must be run using a Java IDE.
